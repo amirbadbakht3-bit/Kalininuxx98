@@ -1,4 +1,4 @@
-name: 🛡️ CYNET Cloud Kali Linux
+name: 🛡️ CYNET Cloud Kali Linuxx
 
 on:
   workflow_dispatch:
